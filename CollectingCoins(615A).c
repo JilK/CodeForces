@@ -1,3 +1,9 @@
+#Input The first line of the input contains one integer t (1≤t≤104) — the number of test cases. The next t lines describe test cases. Each test case is given on a new line and consists of four space-separated integers a,b,c and n (1≤a,b,c,n≤108) — the number of coins Alice has, the number of coins Barbara has, the number of coins Cerene has and the number of coins Polycarp has.
+
+#Output For each test case, print "YES" if Polycarp can distribute all n coins between his sisters and "NO" otherwise.
+
+
+
 #!/bin/python3
 
 import math
