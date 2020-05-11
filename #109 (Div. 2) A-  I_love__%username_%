@@ -12,8 +12,8 @@ The next line contains n space-separated non-negative integer numbers — they a
 
 Output
 Print the single number — the number of amazing performances the coder has had during his whole history of participating in the contests.
-
 '''
+
 input()
 a = [int(x) for x in input().split()]
 mi = a[0]
