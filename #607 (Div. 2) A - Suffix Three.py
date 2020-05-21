@@ -1,4 +1,4 @@
-#Code:
+#Code-
 
 def function(s):
     if s.endswith('o'):
